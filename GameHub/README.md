@@ -6,9 +6,6 @@ A modern gaming website built using **HTML, CSS, and JavaScript**.
 
 🎮 [View GameHub Live](https://daniyalmansuri111-cpu.github.io/HTML-CSS-Learning/GameHub/)
 
-## 🔗 GitHub
-
-[View Source Code](https://github.com/daniyalmansuri111-cpu/HTML-CSS-Learning/tree/main/GameHub)
 
 ## ✨ Features
 
